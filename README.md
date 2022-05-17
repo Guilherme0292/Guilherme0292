@@ -1,0 +1,9 @@
+- 👋 olá sou o Guilherme0292 
+- 📚 tenho um projeto, para fazer com o termux, que é códigos.
+- 🤓 quero fazer meu próprio código que as pessoas podem utilizar.
+- ⚒ a ferramenta termux, e um terminal usado para hackear, e é muito utilizado pelos hacker de celular.
+- [🇺🇸] linguagem.
+- 👋 hello, I'm Guilherme0292 
+- 📚 I have a project to do with termux, which is codes. 
+- 🤓 I want to make my own code that people can use. 
+- ⚒ the termux tool, and a terminal used for hacking, and is widely used by cell phone hackers.
